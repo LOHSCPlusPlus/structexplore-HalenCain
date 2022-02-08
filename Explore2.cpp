@@ -6,8 +6,7 @@ struct Point {
 	double y;
 	Point();
 };
-Point::Point() {
-	// Normally, you do not print in a constructor
+Point::Point() {git
 	cout << "In the constructor" << endl;
 	x = 0;
 	y = 0;
