@@ -23,8 +23,8 @@ int main() {
 
   cout << "Person a's first name: " << a.firstName << endl;
   cout << "Person a's second name: " << a.secondName << endl;
-  cout << "Person a's first name: " << a.firstName << endl;
-  cout << "Person a's second name: " << a.secondName << endl;
+  cout << "Person b's first name: " << b.firstName << endl;
+  cout << "Person b's second name: " << b.secondName << endl;
   
 
 
